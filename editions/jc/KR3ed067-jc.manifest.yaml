@@ -1,0 +1,208 @@
+canonical_identifier: bkk:krp/KR3ed067/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed067/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈藥秘方
+  identifiers:
+    krp: KR3ed067
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed067.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed067_000-jc.yaml, hash: 'sha256:aec0365ce18cf51507e9348a3a06e31bfc1267da7f5021ec7b40b47b4a0b3ba1'}
+  - {seq: 1, filename: KR3ed067_001-jc.yaml, hash: 'sha256:e2be1f67664ae281884020332f4152db9f8cc69fd680f1d12f641f700d31fc12'}
+  - {seq: 3, filename: KR3ed067_003-jc.yaml, hash: 'sha256:1386e5a17966d9d01721bfdaf6f7fa1bbfd6611fad2963c06d893c6f72e0f02d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed067_000-jc.markers.yaml, hash: 'sha256:4bc7ea73696adc88e9d3f51f200a6d2c63c76f64b744b977370ebcec5b17ffd4'}
+  - {seq: 1, role: markers, filename: assets/KR3ed067_001-jc.markers.yaml, hash: 'sha256:b11c39ca5138aa3a151090590745e9cdeec6927b72a61aa2ad667e71e6d5aa09'}
+  - {seq: 3, role: markers, filename: assets/KR3ed067_003-jc.markers.yaml, hash: 'sha256:42a34c06acb91b696e0e637f5a1479ec673eb67e07b0592922aadae23d984c57'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed067_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 246
+  label: 方序上殘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed067_jc_000-d3.h1s1
+    span:
+    - front
+    - 246
+    - 248
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6377
+  label: 靈藥秘方卷之上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d2
+    span:
+    - body
+    - 7
+    - 379
+  label: 靈藥總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d3
+    span:
+    - body
+    - 379
+    - 1731
+  label: 靈藥十例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d4
+    span:
+    - body
+    - 1731
+    - 1869
+  label: 第一方陽七腎散
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d5
+    span:
+    - body
+    - 1869
+    - 2875
+  label: 第二方陰六賢散
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d6
+    span:
+    - body
+    - 2875
+    - 3614
+  label: 第三方飛龍奪命丹兼治內外症主敗毒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d7
+    span:
+    - body
+    - 3614
+    - 3860
+  label: 第四方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d8
+    span:
+    - body
+    - 3860
+    - 3992
+  label: 第五方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d9
+    span:
+    - body
+    - 3992
+    - 4152
+  label: 第六方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d10
+    span:
+    - body
+    - 4152
+    - 4467
+  label: 第七方白雪丹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d11
+    span:
+    - body
+    - 4467
+    - 4588
+  label: 第八方藥紙
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d12
+    span:
+    - body
+    - 4588
+    - 6377
+  label: 第九方白粉霜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6353
+  label: 靈藥秘方卷之下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5d2
+    span:
+    - body
+    - 7
+    - 6353
+  label: 神仙一剪梅
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5.d2d4
+    span:
+    - body
+    - 67
+    - 119
+  label: 陽丹法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5.d2d5
+    span:
+    - body
+    - 119
+    - 6353
+  label: 陰丹法
+  type: section
+  level: 3
+hash: sha256:ccd4aedc3f05477bdd51abbd77e3278eb1d9278ca639be7839b5afb66977d46d

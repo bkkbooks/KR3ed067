@@ -1,0 +1,211 @@
+canonical_identifier: bkk:krp/KR3ed067/v1
+canonical_location: https://kanripo.org/bkk/KR3ed067/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 靈藥秘方
+  identifiers:
+    krp: KR3ed067
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed067.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed067_000.yaml, hash: 'sha256:7fa97a5c38f18e6976a9a4982c9df9a91dace0e08f155054745cdaef42e5d07c'}
+  - {seq: 1, filename: KR3ed067_001.yaml, hash: 'sha256:ac1f4429d1497df4e745fabaf5c3403b83a67653de151d289652f2305c9db921'}
+  - {seq: 3, filename: KR3ed067_003.yaml, hash: 'sha256:63b5931cd06dd2297ceac13c7bdabcd8285885a1d30a32af29e3ecf72030e0e2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed067_000.markers.yaml, hash: 'sha256:95ced1d821f17c347e09e2e2e5842f34afe17e25b67de266a4665bad195ee3b7'}
+  - {seq: 1, role: markers, filename: assets/KR3ed067_001.markers.yaml, hash: 'sha256:c50b15f4786eaf078e9323e34b0e52b354501585917819e7dd2a185f203f4f45'}
+  - {seq: 3, role: markers, filename: assets/KR3ed067_003.markers.yaml, hash: 'sha256:5188afc520728c2636280640c4b071d27eb4413553fac3c3493c531ba21d79fb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed067_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 246
+  label: 方序上殘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed067_jc_000-d3.h1s1
+    span:
+    - front
+    - 246
+    - 248
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6377
+  label: 靈藥秘方卷之上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d2
+    span:
+    - body
+    - 7
+    - 379
+  label: 靈藥總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d3
+    span:
+    - body
+    - 379
+    - 1731
+  label: 靈藥十例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d4
+    span:
+    - body
+    - 1731
+    - 1869
+  label: 第一方陽七腎散
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d5
+    span:
+    - body
+    - 1869
+    - 2875
+  label: 第二方陰六賢散
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d6
+    span:
+    - body
+    - 2875
+    - 3614
+  label: 第三方飛龍奪命丹兼治內外症主敗毒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d7
+    span:
+    - body
+    - 3614
+    - 3860
+  label: 第四方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d8
+    span:
+    - body
+    - 3860
+    - 3992
+  label: 第五方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d9
+    span:
+    - body
+    - 3992
+    - 4152
+  label: 第六方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d10
+    span:
+    - body
+    - 4152
+    - 4467
+  label: 第七方白雪丹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d11
+    span:
+    - body
+    - 4467
+    - 4588
+  label: 第八方藥紙
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed067_jc_001-d4d12
+    span:
+    - body
+    - 4588
+    - 6377
+  label: 第九方白粉霜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6353
+  label: 靈藥秘方卷之下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5d2
+    span:
+    - body
+    - 7
+    - 6353
+  label: 神仙一剪梅
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5.d2d4
+    span:
+    - body
+    - 67
+    - 119
+  label: 陽丹法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed067_jc_003-d5.d2d5
+    span:
+    - body
+    - 119
+    - 6353
+  label: 陰丹法
+  type: section
+  level: 3
+hash: sha256:8845566ebb71315a950e925e90299dbbc924cf97207606eea54e41c25bb1ff27
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

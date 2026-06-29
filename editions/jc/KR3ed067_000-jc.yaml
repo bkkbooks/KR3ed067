@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ed067/jc/v1/juan/0
+seq: 0
+front:
+  text: 方序上殘廢也但古今來方士口口相傳不肯輕泄故世醫所得不過紅升白降數方而已此靈藥秘方一卷多至四十餘翻其中奇方秘論皆世醫之所未聞康熙初年有蒲東方士師成千者不詳其為何人余於乾隆己亥偶遊廣陵市中獲醫方一卷乃師成子手書也讀其自序言壺中賣藥不過欲廣益世人為三千功行之助而秘惜過甚方中分兩皆為隱語以一兩為奇兩三錢為仁淺之預惟恐人知余細玩得其意而改正焉因嘆此書有裨於世而知之者絕少癸卯夏五來遊漢皋以示汪生圮公圮公欣然為付諸剞氏又輯同人屢驗之方為一卷附諸後以廣其傳其利濟之心有足多者因弁言於簡端天都方成培仰松氏題原序
+  hash: sha256:1f6ed483958ce6ffa574f1715f70ec7465b1402c91b6d613a4e8706dc4bc78ad
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed067_jc_000-d2.h1s1}
+  - {type: 'tls:head', offset: 246, content: '', id: KR3ed067_jc_000-d3.h1s1}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈藥秘方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed067.xml
+hash: sha256:aec0365ce18cf51507e9348a3a06e31bfc1267da7f5021ec7b40b47b4a0b3ba1
