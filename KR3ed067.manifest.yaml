@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed067/v1
 canonical_location: https://kanripo.org/bkk/KR3ed067/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 靈藥秘方
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed067_000.yaml, hash: 'sha256:aec0365ce18cf51507e9348a3a06e31bfc1267da7f5021ec7b40b47b4a0b3ba1'}
-  - {seq: 1, filename: KR3ed067_001.yaml, hash: 'sha256:e2be1f67664ae281884020332f4152db9f8cc69fd680f1d12f641f700d31fc12'}
-  - {seq: 3, filename: KR3ed067_003.yaml, hash: 'sha256:1386e5a17966d9d01721bfdaf6f7fa1bbfd6611fad2963c06d893c6f72e0f02d'}
+  - {seq: 0, filename: KR3ed067_000.yaml, hash: 'sha256:7fa97a5c38f18e6976a9a4982c9df9a91dace0e08f155054745cdaef42e5d07c'}
+  - {seq: 1, filename: KR3ed067_001.yaml, hash: 'sha256:2d22f9b28da6faae24cb55cf1ff0c2908fc40b115c66670b332a6aa1f8bb02dc'}
+  - {seq: 3, filename: KR3ed067_003.yaml, hash: 'sha256:e7efb36edd70de06dd5828f9f1ca600d981a3f8515e4dcd8c75e3461843f77cb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed067_000.markers.yaml, hash: 'sha256:5262ebe413c54176c6b50295b39987ad52bdd8a527b533a8f858db6d3d91abfe'}
-  - {seq: 1, role: markers, filename: assets/KR3ed067_001.markers.yaml, hash: 'sha256:314674bf622bc5747218cc90d63e49f9ee7f6173364f458cae45befb2f83905b'}
-  - {seq: 3, role: markers, filename: assets/KR3ed067_003.markers.yaml, hash: 'sha256:2575c02a9ede9ec69fd0101e6ef4ac2e85210f03a75f3e4bd0dd8e660164de9c'}
+  - {seq: 0, role: markers, filename: assets/KR3ed067_000.markers.yaml, hash: 'sha256:b24b9efac4fdbf6a8c533221d8d4fbaff2a568b46003c8321f034185eea6dec6'}
+  - {seq: 1, role: markers, filename: assets/KR3ed067_001.markers.yaml, hash: 'sha256:4a0fb97b6dbbe1bb2636459b678dc11a69eb7e38becb55acf4726a556ba2b16c'}
+  - {seq: 3, role: markers, filename: assets/KR3ed067_003.markers.yaml, hash: 'sha256:a67dd96874765567c309887712f36d973efb30375efec33de098477fc4b26daf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -205,4 +205,7 @@ table_of_contents:
   label: 陰丹法
   type: section
   level: 3
-hash: sha256:0156746e908fae84e7c6df5dced6a6218b2707ee13c7a8ee6b3d805e54cf0c6c
+hash: sha256:98f03294ef2169fc84b809b6752789b1eb0e34a1b0a3b43698bc7c31525639d4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
