@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ed067_003-jc.yaml, hash: 'sha256:1386e5a17966d9d01721bfdaf6f7fa1bbfd6611fad2963c06d893c6f72e0f02d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed067_000-jc.markers.yaml, hash: 'sha256:4bc7ea73696adc88e9d3f51f200a6d2c63c76f64b744b977370ebcec5b17ffd4'}
-  - {seq: 1, role: markers, filename: assets/KR3ed067_001-jc.markers.yaml, hash: 'sha256:b11c39ca5138aa3a151090590745e9cdeec6927b72a61aa2ad667e71e6d5aa09'}
-  - {seq: 3, role: markers, filename: assets/KR3ed067_003-jc.markers.yaml, hash: 'sha256:42a34c06acb91b696e0e637f5a1479ec673eb67e07b0592922aadae23d984c57'}
+  - {seq: 1, role: markers, filename: assets/KR3ed067_001-jc.markers.yaml, hash: 'sha256:d98bc4a8b8f8efaf593f1da9f28ecfb1d62e4cd7534c52f2254854b136868eee'}
+  - {seq: 3, role: markers, filename: assets/KR3ed067_003-jc.markers.yaml, hash: 'sha256:18d76bc8d3589c476e0007a9616fe49fa152df5d1731ef1deead1671902959c4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -205,4 +205,4 @@ table_of_contents:
   label: 陰丹法
   type: section
   level: 3
-hash: sha256:ccd4aedc3f05477bdd51abbd77e3278eb1d9278ca639be7839b5afb66977d46d
+hash: sha256:e901910b9722530121c92c02f6da8b53952de844e7e1de2ec3e26dee9467fa91
